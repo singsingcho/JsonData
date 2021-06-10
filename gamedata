@@ -1,0 +1,29 @@
+{
+  "player": [
+    {
+      "isSaveDataFile": "no",
+      "selectedCharacterName": null,
+      "playerRank": 1,
+      "exp": 0,
+      "money": 0,
+      "barrierLevel": 1,
+      "reloadSpeed": 1,
+      "carbideLevel": 1,
+      "moveSpeed": 1,
+      "bullet_5_Level": 1,
+      "bullet_7_Level": 1,
+      "bullet_9_Level": 1,
+      "bullet_12_Level": 1
+    }
+  ],
+  "inventory": [
+    {
+      "weaponObjName": "SM_Wep_Rifle_01",
+      "isPossession": 1
+    },
+    {
+      "weaponObjName": "SM_Wep_Sniper_01",
+      "isPossession": 1
+    }
+  ]
+}
