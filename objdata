@@ -1,0 +1,387 @@
+{
+  "character": [
+    {
+      "characterObjName": "SM_Chr_Soldier_Female_01",
+      "characterName": "BEAR",
+      "characterSex": "female",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Female_02",
+      "characterName": "ROCK",
+      "characterSex": "female",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Female_03",
+      "characterName": "AUNTY",
+      "characterSex": "female",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Female_04",
+      "characterName": "CHAOS",
+      "characterSex": "female",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Male_01",
+      "characterName": "RHINO",
+      "characterSex": "male",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Male_02",
+      "characterName": "CROW",
+      "characterSex": "male",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Male_03",
+      "characterName": "TEX",
+      "characterSex": "male",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Male_04",
+      "characterName": "FOX",
+      "characterSex": "male",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Male_05",
+      "characterName": "TIGER",
+      "characterSex": "male",
+      "characterInfo": null
+    },
+    {
+      "characterObjName": "SM_Chr_Soldier_Male_06",
+      "characterName": "SAINT",
+      "characterSex": "male",
+      "characterInfo": null
+    }
+  ],
+  "weapon": [
+    {
+      "weaponObjName": "SM_Wep_MachineGun_Bandit_01",
+      "weaponName": "PKM",
+      "weaponPrice": 10000,
+      "demandLevel": 7,
+      "attackPower": 6,
+      "attackSpeed": 8,
+      "useBulletKind": 7.62,
+      "minCarbide": 55,
+      "perCarbideLevel": 1
+    },
+    {
+      "weaponObjName": "SM_Wep_MachineGun_USA_01",
+      "weaponName": "MK48",
+      "weaponPrice": 10000,
+      "demandLevel": 7,
+      "attackPower": 6,
+      "attackSpeed": 8.2,
+      "useBulletKind": 7.62,
+      "minCarbide": 60,
+      "perCarbideLevel": 1
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_A_Complex_01",
+      "weaponName": "GAU-5A",
+      "weaponPrice": 700,
+      "demandLevel": 5,
+      "attackPower": 7,
+      "attackSpeed": 6.2,
+      "useBulletKind": 5.56,
+      "minCarbide": 25,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_A_Heavy_01",
+      "weaponName": "SDM-R",
+      "weaponPrice": 500,
+      "demandLevel": 3,
+      "attackPower": 8,
+      "attackSpeed": 6.5,
+      "useBulletKind": 5.56,
+      "minCarbide": 40,
+      "perCarbideLevel": 2
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_A_Rifle_01",
+      "weaponName": "M4",
+      "weaponPrice": 300,
+      "demandLevel": 1,
+      "attackPower": 8,
+      "attackSpeed": 6.2,
+      "useBulletKind": 5.56,
+      "minCarbide": 25,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_A_Rifle_02",
+      "weaponName": "M27-M203",
+      "weaponPrice": 300,
+      "demandLevel": 1,
+      "attackPower": 7,
+      "attackSpeed": 6.1,
+      "useBulletKind": 5.56,
+      "minCarbide": 25,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_A_Rifle_03",
+      "weaponName": "M16",
+      "weaponPrice": 300,
+      "demandLevel": 1,
+      "attackPower": 7,
+      "attackSpeed": 6.1,
+      "useBulletKind": 5.56,
+      "minCarbide": 25,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_A_SMG_01",
+      "weaponName": "MPX",
+      "weaponPrice": 100,
+      "demandLevel": 1,
+      "attackPower": 6,
+      "attackSpeed": 6.7,
+      "useBulletKind": 9,
+      "minCarbide": 25,
+      "perCarbideLevel": 2
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_A_Sniper_01",
+      "weaponName": "RSASS",
+      "weaponPrice": 1000,
+      "demandLevel": 4,
+      "attackPower": 12,
+      "attackSpeed": 1.4,
+      "useBulletKind": 7.62,
+      "minCarbide": 5,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_B_Complex_01",
+      "weaponName": "AK-74M",
+      "weaponPrice": 700,
+      "demandLevel": 5,
+      "attackPower": 8,
+      "attackSpeed": 6.2,
+      "useBulletKind": 5.56,
+      "minCarbide": 25,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_B_Heavy_01",
+      "weaponName": "RPK",
+      "weaponPrice": 500,
+      "demandLevel": 3,
+      "attackPower": 7,
+      "attackSpeed": 6.5,
+      "useBulletKind": 7.62,
+      "minCarbide": 40,
+      "perCarbideLevel": 2
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_B_Rifle_01",
+      "weaponName": "AK-47",
+      "weaponPrice": 300,
+      "demandLevel": 1,
+      "attackPower": 8,
+      "attackSpeed": 6.2,
+      "useBulletKind": 7.62,
+      "minCarbide": 25,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_B_Rifle_02",
+      "weaponName": "Ots-14",
+      "weaponPrice": 300,
+      "demandLevel": 1,
+      "attackPower": 8,
+      "attackSpeed": 6.1,
+      "useBulletKind": 9,
+      "minCarbide": 25,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_B_Rifle_03",
+      "weaponName": "CAK",
+      "weaponPrice": 300,
+      "demandLevel": 1,
+      "attackPower": 8,
+      "attackSpeed": 6.1,
+      "useBulletKind": 9,
+      "minCarbide": 25,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_B_SMG_01",
+      "weaponName": "AKS-74U",
+      "weaponPrice": 100,
+      "demandLevel": 1,
+      "attackPower": 7,
+      "attackSpeed": 6.7,
+      "useBulletKind": 5.56,
+      "minCarbide": 25,
+      "perCarbideLevel": 2
+    },
+    {
+      "weaponObjName": "SM_Wep_Preset_B_Sniper_01",
+      "weaponName": "SVD",
+      "weaponPrice": 1000,
+      "demandLevel": 4,
+      "attackPower": 13,
+      "attackSpeed": 1.3,
+      "useBulletKind": 7.62,
+      "minCarbide": 5,
+      "perCarbideLevel": 3
+    },
+    {
+      "weaponObjName": "SM_Wep_Rifle_01",
+      "weaponName": "M1 Garand",
+      "weaponPrice": 0,
+      "demandLevel": 1,
+      "attackPower": 10,
+      "attackSpeed": 1,
+      "useBulletKind": 7.62,
+      "minCarbide": 7,
+      "perCarbideLevel": 1
+    },
+    {
+      "weaponObjName": "SM_Wep_Shotgun_01",
+      "weaponName": "M1014",
+      "weaponPrice": 50000,
+      "demandLevel": 1,
+      "attackPower": 20,
+      "attackSpeed": 3,
+      "useBulletKind": 12,
+      "minCarbide": 2,
+      "perCarbideLevel": 5
+    },
+    {
+      "weaponObjName": "SM_Wep_Sniper_01",
+      "weaponName": "AW",
+      "weaponPrice": 0,
+      "demandLevel": 1,
+      "attackPower": 10,
+      "attackSpeed": 1,
+      "useBulletKind": 7.62,
+      "minCarbide": 5,
+      "perCarbideLevel": 3
+    }
+  ],
+  "monster": [
+    {
+      "monsterObjName": "Chr_Dungeon_GoblinChief_01",
+      "monsterName": "고블린 우두머리",
+      "Hp": 150,
+      "Level": 9,
+      "attackPower": 30,
+      "attackSpeed": 2.9,
+      "moveSpeed": 5.8,
+      "dropExp": 19,
+      "dropMoney": 15
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_GoblinFemale_01",
+      "monsterName": "고블린 여사냥꾼",
+      "Hp": 60,
+      "Level": 4,
+      "attackPower": 17,
+      "attackSpeed": 2.7,
+      "moveSpeed": 5.3,
+      "dropExp": 5,
+      "dropMoney": 4
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_GoblinMale_01",
+      "monsterName": "고블린 남사냥꾼",
+      "Hp": 75,
+      "Level": 5,
+      "attackPower": 19,
+      "attackSpeed": 2.8,
+      "moveSpeed": 5.6,
+      "dropExp": 7,
+      "dropMoney": 5
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_GoblinShaman_01",
+      "monsterName": "고블린 주술사",
+      "Hp": 95,
+      "Level": 8,
+      "attackPower": 17,
+      "attackSpeed": 3.5,
+      "moveSpeed": 6,
+      "dropExp": 17,
+      "dropMoney": 10
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_GoblinWarriorFemale_01",
+      "monsterName": "고블린 여전사",
+      "Hp": 105,
+      "Level": 7,
+      "attackPower": 22,
+      "attackSpeed": 2.9,
+      "moveSpeed": 6.2,
+      "dropExp": 13,
+      "dropMoney": 7
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_GoblinWarriorMale_01",
+      "monsterName": "고블린 남전사",
+      "Hp": 100,
+      "Level": 6,
+      "attackPower": 22,
+      "attackSpeed": 2.8,
+      "moveSpeed": 6,
+      "dropExp": 11,
+      "dropMoney": 6
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_RockGolem_01",
+      "monsterName": "바위골렘",
+      "Hp": 500,
+      "Level": 10,
+      "attackPower": 150,
+      "attackSpeed": 1,
+      "moveSpeed": 2,
+      "dropExp": 53,
+      "dropMoney": 30
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_Skeleton_01",
+      "monsterName": "해골 병사",
+      "Hp": 25,
+      "Level": 1,
+      "attackPower": 10,
+      "attackSpeed": 2,
+      "moveSpeed": 4.5,
+      "dropExp": 1,
+      "dropMoney": 1
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_SkeletonSoldier_01",
+      "monsterName": "해골 기사",
+      "Hp": 34,
+      "Level": 3,
+      "attackPower": 15,
+      "attackSpeed": 2.5,
+      "moveSpeed": 4.7,
+      "dropExp": 3,
+      "dropMoney": 3
+    },
+    {
+      "monsterObjName": "Chr_Dungeon_SkeletonSoldier_02",
+      "monsterName": "해골 전사",
+      "Hp": 28,
+      "Level": 2,
+      "attackPower": 10,
+      "attackSpeed": 2.3,
+      "moveSpeed": 5,
+      "dropExp": 2,
+      "dropMoney": 2
+    }
+  ]
+}
